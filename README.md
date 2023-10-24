@@ -6,6 +6,10 @@ I've been involved in web development for approximately 8 months, and during thi
 
 <h2>Contact</h2>
 Mor Denys
+<br>
+<br>
 morden07.07.2006@gmail.com
+<br>
+<br>
 <a href="https://t.me/mor_denis"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="Telegram" width="30"/> </a>
 
